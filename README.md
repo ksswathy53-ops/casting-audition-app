@@ -72,32 +72,32 @@ project-root
 ├── backend
 
    
-   │ ── controllers
+   -controllers
   
-   │ ── models
+   -models
   
-   │ ── routes
+   -routes
   
-   │ ── middleware
+   -middleware
   
-   │ ── uploads
+   -uploads
   
-   │ ── server.js
+   -server.js
 
 
 
 ├── frontend
 
 
-   │ ── components
+   -components
   
-   │ ── pages
+   -pages
   
-   |── context
+   -context
   
-   │ ── api
+   -api
    
-   │ ── App.jsx
+   -App.jsx
 
 
 
