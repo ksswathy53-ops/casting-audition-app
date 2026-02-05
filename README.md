@@ -70,6 +70,7 @@ A full-stack MERN web application that enables directors to create casting calls
 project-root
 
 ├── backend
+
    
    │ ── controllers
   
@@ -87,11 +88,12 @@ project-root
 
 ├── frontend
 
+
    │ ── components
   
    │ ── pages
   
-   │ ── context
+   |── context
   
    │ ── api
    
