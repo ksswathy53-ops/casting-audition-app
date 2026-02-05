@@ -68,35 +68,25 @@ A full-stack MERN web application that enables directors to create casting calls
 ## Project Structure
 
 project-root
-│
 
 ├── backend
 
-│   ├── controllers
+  │ ── controllers
+  │ ── models
+  │ ── routes
+  │ ── middleware
+  │ ── uploads
+  │ ── server.js
 
-│   ├── models
 
-│   ├── routes
-
-│   ├── middleware
-
-│   ├── uploads
-
-│   └── server.js
-
-│
 
 ├── frontend
 
-│   ├── components
-
-│   ├── pages
-
-│   ├── context
-
-│   ├── api
-
-│   └── App.jsx
+  │ ── components
+  │ ── pages
+  │ ── context
+  │ ── api
+  │ ── App.jsx
 
 
 
@@ -155,7 +145,7 @@ git clone https://github.com/ksswathy53-ops/casting-audition-app.git
 
 ##  Author
 
-###Swathy K S
+### Swathy K S
 
 - MERN Stack Developer
 
