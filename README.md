@@ -4,11 +4,15 @@
 ##  Project Description
 A full-stack MERN web application that enables directors to create casting calls and allows talents to browse and apply for roles. The platform includes authentication, role-based access control, and secure file upload functionality.
 
-## 🚀 Tech Stack
+##  Tech Stack
 - Frontend
+  
     -React.js
+  
     -Context API
+  
     -Axios
+  
     -Tailwind CSS
 
 -Backend
