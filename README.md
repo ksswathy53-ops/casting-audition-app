@@ -155,9 +155,9 @@ git clone https://github.com/ksswathy53-ops/casting-audition-app.git
 
 ##  Author
 
-Swathy K S
+###Swathy K S
 
-MERN Stack Developer
+- MERN Stack Developer
 
 ### Acknowledgement
 
